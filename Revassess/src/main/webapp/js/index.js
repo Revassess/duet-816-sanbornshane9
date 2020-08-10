@@ -13,10 +13,19 @@ let resp;
 
 //assign the returned json to the resp variable
 async function callFlashcardApi(){
+ fetch('http://ec2-3-19-123-54.us-east-2.compute.amazonaws.com:9999/flashcard')
+     .then(function(data){
+        resp = data;
+    })
+
+
+
+
 }
 
 //manipulate the dom with this function
 function manipDom(){
+    
 }
 
 //this returns the variable that holds the json received from the api
