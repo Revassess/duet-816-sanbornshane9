@@ -1,9 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab98e9e0-7777-4a78-bf85-ba2dd0af8632" name="Default Changelist" comment="">
+    <list default="true" id="f5bcc4ad-347a-4666-9142-5545cf907c52" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_oracle_ojdbc_ojdbc8_19_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_oracle_ojdbc_ons_19_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_oracle_ojdbc_oraclepki_19_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_oracle_ojdbc_osdt_cert_19_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_oracle_ojdbc_osdt_core_19_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_oracle_ojdbc_simplefan_19_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_oracle_ojdbc_ucp_19_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_2_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/revature/AppDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Revassess.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Revassess.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/config/ConnectionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/config/ConnectionUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/dao/CrudRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/dao/CrudRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/dao/FlashcardRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/dao/FlashcardRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/dao/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/dao/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/exception/ResourceNotfoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/exception/ResourceNotfoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/exception/ResourcePersistenceException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/exception/ResourcePersistenceException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/model/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/model/Flashcard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/model/Flashcard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/model/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/model/Role.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/model/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +69,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1fuxZe2os6rDdIvBDFZrhuiKZRc" />
+  <component name="ProjectId" id="1fvKAhXH64NbRYjePbNGUE7J9as" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,6 +78,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -33,31 +89,153 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
+  <component name="RunManager" selected="JUnit.Tier4Tests">
+    <configuration name="Answer2Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Revassess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.revature.tier4.answers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.revature.tier4.answers" />
+      <option name="MAIN_CLASS_NAME" value="com.revature.tier4.answers.Answer2Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Answer4Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Revassess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.revature.tier4.answers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.revature.tier4.answers" />
+      <option name="MAIN_CLASS_NAME" value="com.revature.tier4.answers.Answer4Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Answer4Tests.testClasses" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Revassess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.revature.tier4.answers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.revature.tier4.answers" />
+      <option name="MAIN_CLASS_NAME" value="com.revature.tier4.answers.Answer4Tests" />
+      <option name="METHOD_NAME" value="testClasses" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointsTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Revassess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.revature.tier4.answers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.revature.tier4.answers" />
+      <option name="MAIN_CLASS_NAME" value="com.revature.tier4.answers.PointsTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tier4Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Revassess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.revature.tier4.answers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.revature.tier4.answers" />
+      <option name="MAIN_CLASS_NAME" value="com.revature.tier4.answers.Tier4Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Tier4Tests" />
+        <item itemvalue="JUnit.PointsTests" />
+        <item itemvalue="JUnit.Answer2Tests" />
+        <item itemvalue="JUnit.Answer4Tests" />
+        <item itemvalue="JUnit.Answer4Tests.testClasses" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ab98e9e0-7777-4a78-bf85-ba2dd0af8632" name="Default Changelist" comment="" />
-      <created>1597081835558</created>
+      <changelist id="f5bcc4ad-347a-4666-9142-5545cf907c52" name="Default Changelist" comment="" />
+      <created>1597092984428</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1597081835558</updated>
-      <workItem from="1597081839435" duration="3141000" />
+      <updated>1597092984428</updated>
+      <workItem from="1597092987629" duration="2000000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="627" y="385" key="#SQL_Dialects" timestamp="1597082821171">
+    <state width="880" height="295" key="GridCell.Tab.0.bottom" timestamp="1597094720734">
       <screen x="0" y="0" width="1848" height="1080" />
     </state>
-    <state x="627" y="385" key="#SQL_Dialects/0.0.1848.1080@0.0.1848.1080" timestamp="1597082821171" />
-    <state x="842" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597083093207">
+    <state width="880" height="295" key="GridCell.Tab.0.bottom/0.0.1848.1080@0.0.1848.1080" timestamp="1597094720734" />
+    <state width="880" height="295" key="GridCell.Tab.0.center" timestamp="1597094720734">
       <screen x="0" y="0" width="1848" height="1080" />
     </state>
-    <state x="842" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1848.1080@0.0.1848.1080" timestamp="1597083093207" />
+    <state width="880" height="295" key="GridCell.Tab.0.center/0.0.1848.1080@0.0.1848.1080" timestamp="1597094720734" />
+    <state width="880" height="295" key="GridCell.Tab.0.left" timestamp="1597094720734">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state width="880" height="295" key="GridCell.Tab.0.left/0.0.1848.1080@0.0.1848.1080" timestamp="1597094720734" />
+    <state width="880" height="295" key="GridCell.Tab.0.right" timestamp="1597094720734">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state width="880" height="295" key="GridCell.Tab.0.right/0.0.1848.1080@0.0.1848.1080" timestamp="1597094720734" />
+    <state width="1805" height="364" key="GridCell.Tab.1.bottom" timestamp="1597094350171">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state width="1805" height="364" key="GridCell.Tab.1.bottom/0.0.1848.1080@0.0.1848.1080" timestamp="1597094350171" />
+    <state width="1805" height="364" key="GridCell.Tab.1.center" timestamp="1597094350170">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state width="1805" height="364" key="GridCell.Tab.1.center/0.0.1848.1080@0.0.1848.1080" timestamp="1597094350170" />
+    <state width="1805" height="364" key="GridCell.Tab.1.left" timestamp="1597094350170">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state width="1805" height="364" key="GridCell.Tab.1.left/0.0.1848.1080@0.0.1848.1080" timestamp="1597094350170" />
+    <state width="1805" height="364" key="GridCell.Tab.1.right" timestamp="1597094350171">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state width="1805" height="364" key="GridCell.Tab.1.right/0.0.1848.1080@0.0.1848.1080" timestamp="1597094350171" />
   </component>
 </project>

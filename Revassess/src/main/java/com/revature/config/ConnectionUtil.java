@@ -1,6 +1,8 @@
 package com.revature.config;
 
-import java.sql.Connection;
+import org.postgresql.Driver;
+
+import java.sql.*;
 
 /**
  * 
@@ -26,15 +28,36 @@ public class ConnectionUtil {
 	// name of the created sequence in tier 3
 	public static final String TIER_3_SEQUENCE_NAME = "mysequence";
 
+	static {
+		try {
+			DriverManager.registerDriver(new Driver());
+		} catch (SQLException throwables) {
+			throwables.printStackTrace();
+		}
+	}
+
 	// implement this method to connect to the db and return the connection object
-	public Connection connect(){
-		return null;
+	public Connection connect() throws SQLException {
+		return DriverManager.getConnection(URL, USERNAME, PASSWORD);
 	}
 
 
 	//implement this method with a callable statement that calls the absolute value sql function
 	public long callAbsoluteValueFunction(long value){
-		return value;
+		Connection c = null;
+		long answer = 0;
+		try{
+			c = cu.connect();
+			CallableStatement s = c.prepareCall("{call ABS(?)}");
+			s.setLong(1,value);
+			ResultSet rs = s.executeQuery();
+			while(rs.next()){
+				answer = rs.getLong("Result");
+			}
+		}catch(SQLException throwables){
+
+		}
+		return answer;
 	}
 	
 
