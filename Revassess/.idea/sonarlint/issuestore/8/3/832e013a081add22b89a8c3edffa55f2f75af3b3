@@ -1,0 +1,37 @@
+
+n
+java:S1192/"LDefine a constant instead of duplicating this literal "category_id" 3 times.(Å¿ƒñûÿÿÿÿ8¿ö´Ñ½.
+j
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ò²¡°øÿÿÿÿ
+]
+java:S1192,"GDefine a constant instead of duplicating this literal "answer" 3 times.(ğˆƒô
+j
+java:S11923"HDefine a constant instead of duplicating this literal "science" 5 times.(ÁİÄÍüÿÿÿÿ8ñ‘ÊÑ½.
+j
+java:S2095]"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ò²¡°øÿÿÿÿ
+\
+java:S1126{"AReplace this if-then-else statement by a single return statement.(€Ä›“úÿÿÿÿ
+b
+java:S2095)"GUse try-with-resources or close this "Statement" in a "finally" clause.(œ©ûÿÿÿÿ
+_
+java:S1192."IDefine a constant instead of duplicating this literal "question" 3 times.(ªÁšÖ
+j
+java:S2095x"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ò²¡°øÿÿÿÿ
+c
+java:S1192-"MDefine a constant instead of duplicating this literal "flashcard_id" 3 times.(Ï—™»
+j
+java:S2095C"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ò²¡°øÿÿÿÿ
+b
+java:S2095*"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ëŒÂŸøÿÿÿÿ
+k
+java:S2095ˆ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ò²¡°øÿÿÿÿ
+\
+java:S1126l"AReplace this if-then-else statement by a single return statement.(€Ä›“úÿÿÿÿ
+c
+java:S2095’"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¡ğÔ¬ıÿÿÿÿ
+O
+java:S1128"4Remove this unused import 'com.revature.model.User'.(™¨˜ÿÿÿÿÿ
+O
+java:S1128"4Remove this unused import 'com.revature.model.Role'.(şÜ‡¸úÿÿÿÿ
+b
+java:S2095E"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¡ğÔ¬ıÿÿÿÿ

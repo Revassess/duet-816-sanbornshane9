@@ -1,0 +1,45 @@
+
+j
+java:S2095]"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ò²¡°øÿÿÿÿ
+j
+java:S2095C"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ò²¡°øÿÿÿÿ
+k
+java:S2095˜"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ò²¡°øÿÿÿÿ
+a
+java:S1192-"KDefine a constant instead of duplicating this literal "first_name" 4 times.(Ïï“‡
+d
+java:S11920"IDefine a constant instead of duplicating this literal "password" 4 times.(‹Ê°«ûÿÿÿÿ
+e
+java:S1192."JDefine a constant instead of duplicating this literal "last_name" 4 times.(“›£üÿÿÿÿ
+U
+java:S1128"8Remove this unused import 'com.revature.model.Category'.(Æüë8ĞöÔÑ½.
+m
+java:S11923"KDefine a constant instead of duplicating this literal "BASIC_USER" 4 times.(í©“‘úÿÿÿÿ8Ğ‹ÚÑ½.
+b
+java:S2095E"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¡ğÔ¬ıÿÿÿÿ
+j
+java:S2095q"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ò²¡°øÿÿÿÿ
+d
+java:S1192/"IDefine a constant instead of duplicating this literal "username" 4 times.(ç……Èıÿÿÿÿ
+b
+java:S2095+"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ëŒÂŸøÿÿÿÿ
+i
+java:S11922"LDefine a constant instead of duplicating this literal "category_id" 4 times.(ØêİÒ8Ğ‹ÚÑ½.
+k
+java:S2095€"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ò²¡°øÿÿÿÿ
+c
+java:S2095‚"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¡ğÔ¬ıÿÿÿÿ
+j
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ò²¡°øÿÿÿÿ
+b
+java:S1128"GRemove this unused import 'javax.mail.internet.PreencodedMimeBodyPart'.(É†’³üÿÿÿÿ
+b
+java:S2095*"GUse try-with-resources or close this "Statement" in a "finally" clause.(œ©ûÿÿÿÿ
+c
+java:S11921"HDefine a constant instead of duplicating this literal "user_id" 4 times.(÷ô¤üúÿÿÿÿ
+\
+java:S1126e"AReplace this if-then-else statement by a single return statement.(€Ä›“úÿÿÿÿ
+\
+java:S1126t"AReplace this if-then-else statement by a single return statement.(€Ä›“úÿÿÿÿ
+c
+java:S2095›"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¡ğÔ¬ıÿÿÿÿ
