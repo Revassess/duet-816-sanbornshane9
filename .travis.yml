@@ -6,4 +6,4 @@ script: ./build.sh
 notifications:
     email:
     #enter your email address below
-        shane.sanborn@revature.net
+        - shane.sanborn@revature.net
