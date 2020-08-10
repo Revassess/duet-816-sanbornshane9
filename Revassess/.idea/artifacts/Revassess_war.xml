@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Revassess:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Revassess</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Revassess-2.0.war">
+      <element id="artifact" artifact-name="Revassess:war exploded" />
+    </root>
+  </artifact>
+</component>
