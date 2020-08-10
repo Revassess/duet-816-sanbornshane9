@@ -1,1 +1,1 @@
-select * from APP_USER inner join USER_ROLE on APP_USER.role_id = USER_ROLE.role_id where USER_ROLE.name = "BASIC_USER";
+select * from APP_USER inner join USER_ROLE on APP_USER.role_id = USER_ROLE.role_id where USER_ROLE.name = 'BASIC_USER';

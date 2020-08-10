@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab98e9e0-7777-4a78-bf85-ba2dd0af8632" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/sql/answer1.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/sql/answer1.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sql/answer2.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/sql/answer2.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sql/answer3.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/sql/answer3.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sql/setup.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/sql/setup.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
