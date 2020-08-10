@@ -52,7 +52,37 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="JUnit.Tier4Tests">
+  <component name="RunManager" selected="JUnit.Answer2Tests (1)">
+    <configuration name="Answer1Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Revassess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.revature.tier5.answers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.revature.tier5.answers" />
+      <option name="MAIN_CLASS_NAME" value="com.revature.tier5.answers.Answer1Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Answer2Tests (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Revassess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.revature.tier5.answers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.revature.tier5.answers" />
+      <option name="MAIN_CLASS_NAME" value="com.revature.tier5.answers.Answer2Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Answer2Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Revassess" />
       <extension name="coverage">
@@ -64,37 +94,6 @@
       <option name="PACKAGE_NAME" value="com.revature.tier4.answers" />
       <option name="MAIN_CLASS_NAME" value="com.revature.tier4.answers.Answer2Tests" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Answer4Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Revassess" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.revature.tier4.answers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.revature.tier4.answers" />
-      <option name="MAIN_CLASS_NAME" value="com.revature.tier4.answers.Answer4Tests" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Answer4Tests.testClasses" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Revassess" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.revature.tier4.answers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.revature.tier4.answers" />
-      <option name="MAIN_CLASS_NAME" value="com.revature.tier4.answers.Answer4Tests" />
-      <option name="METHOD_NAME" value="testClasses" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -131,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Answer2Tests (1)" />
+        <item itemvalue="JUnit.Answer1Tests" />
         <item itemvalue="JUnit.Tier4Tests" />
         <item itemvalue="JUnit.PointsTests" />
         <item itemvalue="JUnit.Answer2Tests" />
-        <item itemvalue="JUnit.Answer4Tests" />
-        <item itemvalue="JUnit.Answer4Tests.testClasses" />
       </list>
     </recent_temporary>
   </component>
